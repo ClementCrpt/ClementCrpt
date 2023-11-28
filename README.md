@@ -1,6 +1,3 @@
-Bien sûr, voici un exemple de contenu que vous pourriez inclure dans un fichier README.md pour présenter votre portfolio de développeur informatique sur GitHub. N'oubliez pas de personnaliser les sections en fonction de votre expérience et de vos projets spécifiques.
-
-```markdown
 # Portfolio de [Votre Nom]
 
 ## À propos de moi
@@ -52,6 +49,3 @@ Description des responsabilités et réalisations dans ce rôle.
 - Portfolio en ligne: [Lien vers votre site personnel]
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle. Merci de visiter mon portfolio !
-```
-
-Assurez-vous de personnaliser chaque section en fonction de votre expérience, de vos compétences et des projets spécifiques que vous souhaitez mettre en avant. Vous pouvez également ajouter des images, des badges, ou d'autres éléments visuels pour rendre votre README plus attractif.
