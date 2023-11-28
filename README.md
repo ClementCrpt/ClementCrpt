@@ -1,4 +1,4 @@
-# Portfolio de [Votre Nom]
+# Portfolio
 
 ## À propos de moi
 
@@ -6,7 +6,7 @@ Je suis un développeur passionné avec une expérience variée dans le dévelop
 
 ## Projets
 
-### Projet 1: [Nom du Projet 1]
+### Projet 1: Logiciel pour l'entreprise Legrand
 Description brève du projet. Incluez les technologies utilisées, les défis rencontrés et les solutions apportées.
 
 - **Technologies utilisées:** [Liste des technologies]
