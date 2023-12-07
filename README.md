@@ -20,13 +20,15 @@ devenir concepteur et développeur d’applications.
 
 ## Projets
 
-### Projet 1: Logiciel pour l'entreprise Legrand
-Description brève du projet. Incluez les technologies utilisées, les défis rencontrés et les solutions apportées.
+### Première année de BUT informatique :
+Durant ma première année de BUT 
+informatique, j'ai installé des postes informatiques 
+sur des machines virtuelles avec des systèmes 
+d'automatisation, j'ai développé le jeu de plateau 
+Latice en Java, j'ai appris à manipuler des bases de 
+données, j'ai simulé la gestion de projet d'un weekend d'intégration.
 
-- **Technologies utilisées:** [Liste des technologies]
-- **Lien vers le code source:** [Lien GitHub]
-
-### Projet 2: [Nom du Projet 2]
+### Deuxième année de BUT informatique:
 Description brève du projet. Incluez les technologies utilisées, les défis rencontrés et les solutions apportées.
 
 - **Technologies utilisées:** [Liste des technologies]
