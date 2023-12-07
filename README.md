@@ -29,9 +29,9 @@ Latice en Java, j'ai appris à manipuler des bases de
 données, j'ai simulé la gestion de projet d'un weekend d'intégration.
 
 ### Deuxième année de BUT informatique:
-Description brève du projet. Incluez les technologies utilisées, les défis rencontrés et les solutions apportées.
+Lors de ma deuxième année de BUT informatique, nous avons eu projet tout au long de l'année où nous devions, par équipe de trois, réaliser un logiciel de mise en évidence de données pour les employés de l'entreprise Legrand. 
 
-- **Technologies utilisées:** [Liste des technologies]
+- **Technologies utilisées:** [JavaScript, SQL, HTML / CSS]
 - **Lien vers le code source:** [Lien GitHub]
 
 ## Expérience professionnelle
