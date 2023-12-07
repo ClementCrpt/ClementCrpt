@@ -2,7 +2,21 @@
 
 ## À propos de moi
 
-Je suis un développeur passionné avec une expérience variée dans le développement logiciel. Mon expertise se situe principalement dans [mentionnez vos compétences principales], et je suis constamment à la recherche de nouveaux défis pour développer mes compétences.
+Je m'appelle Clément Carpentier, j'ai 19 ans et je 
+suis actuellement en première année de BUT 
+(Bachelor Universitaire de Technologie) à l'IUT du 
+Limousin à Limoges.
+Dès mon entrée en première, j'ai développé des 
+appétences pour le milieu de l'informatique.
+J'ai suivi mon année de première générale avec les 
+spécialités mathématiques, NSI (Numérique et 
+Sciences de l'Informatique) et physique-chimie avec 
+l'option DNL (Discipline Non Linguistique) SVT.
+Intéressé par le domaine de l’informatique et plus 
+particulièrement par l’algorithmique, la conception 
+et le développement d’applications, je souhaiterais 
+devenir concepteur et développeur d’applications.
+
 
 ## Projets
 
