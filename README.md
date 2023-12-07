@@ -13,6 +13,7 @@ spécialités mathématiques, NSI (Numérique et
 Sciences de l'Informatique) avec l'option DNL (Discipline Non Linguistique) SVT.
 Après mon BUT informatique, je souhaiterais poursuivre mes études en effectuant un master mention informatique afin de devenir développeur.
 
+
 ## Projets
 
 ### Première année de BUT informatique :
@@ -33,10 +34,12 @@ Après cela, j'ai effectué un stage de 10 semaines au sein d'une équipe d'ing�
 - **Technologies utilisées :** PHP, SQL, HTML, CSS
 - **Connaissances utilisées :** Modèle MVC, principes SOLID
 
+
 ## Compétences
 
 - Langages de programmation: PHP, JavaScript, SQL, HTML/CSS, Java, Bash
 - Autres compétences: Connaissances de principes de qualité de code (principes SOLID, bonnes pratiques...), connaissances de design patterns...
+
 
 ## Diplômes
 
@@ -44,12 +47,14 @@ Après cela, j'ai effectué un stage de 10 semaines au sein d'une équipe d'ing�
   - IUT du Limousin
   - Année d'obtention: 2023
 
+
 ## Expérience professionnelle
 
 ### Hôpital de Montauban - Service de restauration
 Période de travail: Juillet 2021 -Aôut 2022
 
 Ce travail saisonnier consistait à participer à la préparation des repas pour le personnel de l'hôpital.
+
 
 ## Contact
 
