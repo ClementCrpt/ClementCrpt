@@ -54,7 +54,4 @@ Ce travail saisonnier consistait à participer à la préparation des repas pour
 ## Contact
 
 - Email: clement.carpentier03@orange.fr
-- LinkedIn: [Votre Profil LinkedIn]
-- Portfolio en ligne: [Lien vers votre site personnel]
-
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle. Merci de visiter mon portfolio !
+- LinkedIn: https://fr.linkedin.com/in/cl%C3%A9ment-carpentier-9b56ab255
